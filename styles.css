@@ -1,0 +1,141 @@
+.navbar{
+    background-color: #851476;
+    padding: 10px;
+}
+.title{
+    font-family: "Pixelify Sans", sans-serif;
+    font-size: 64px;
+}
+.dltext{
+    font-family: "Pixelify Sans", sans-serif;
+    font-size:36px;
+    color: white;
+}
+.mainshit{
+    font-family: "Pixelify Sans", sans-serif;
+    font-size:96px;
+    color: white;
+    font-weight: lighter;
+    margin-bottom: 0;
+}
+.mainshit2{
+    font-family: "Pixelify Sans", sans-serif;
+    font-size:96px;
+    color: white;
+    font-weight: lighter;
+    background: linear-gradient(
+    to right,
+    #F02AD6 0%,   
+    #FF8DF0 100%  
+  );
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.maintextstuff{
+    font-family: "Pixelify Sans", sans-serif;
+    font-size:32px;
+    color: white;
+}
+.button1{
+    font-family: "Pixelify Sans", sans-serif;
+    font-size:24px;
+    color : white;
+    border: 5px solid #851476;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background: linear-gradient(
+    to right,
+    #8A187B 0%,   
+    #F02AD6 100%  
+  );
+
+}
+.button2{
+    font-family: "Pixelify Sans", sans-serif;
+    font-size:24px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-right: 40px;
+    background-color: black;
+    color : white;
+    border: 5px solid transparent;
+    border-image: linear-gradient(90deg, #851476, #FF00DD) 1;
+    
+    
+  
+}
+.statbox{
+    background-color: #262626;
+    border: 5px solid transparent;
+    border-image: linear-gradient(90deg, #851476, #FF00DD) 1;
+    margin: 10px;
+    padding: 30px;
+}
+.statnums{
+    font-family: "Pixelify Sans", sans-serif;
+    font-size:64px;
+    color: #FF00DD;
+}
+.stattext{
+    font-family: "Pixelify Sans", sans-serif;
+    font-size:32px;
+    color: #ffffff;
+}
+
+.subtext{
+    font-family: "Pixelify Sans", sans-serif;
+    font-size:64px;
+    color: white;
+    font-weight: lighter;
+    background: linear-gradient(
+    to right,
+    #F02AD6 0%,   
+    #FF8DF0 100%  
+  );
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    
+}
+.tinytext{
+    font-family: "Pixelify Sans", sans-serif;
+    font-size:16px;
+    color: white;
+}
+.svgbg{
+    background: linear-gradient(
+    to right,
+    #8A187B 0%,   
+    #F02AD6 100%  
+  );
+    width: 70px;
+    border-radius:4px ;
+}
+.hiwbox{
+    background-color: #262626;
+    border: 5px solid transparent;
+    border-image: linear-gradient(90deg, #851476, #FF00DD) 1;
+    margin: 5px;
+    padding:5px;
+    min-height: 245px;
+    max-height:400px;
+}
+.demopage{
+    border: 5px solid transparent;
+    border-image: linear-gradient(90deg, #851476, #FF00DD) 1;
+}
+.tipbox{
+    background-color: #262626;
+    border: 5px solid transparent;
+    border-image: linear-gradient(90deg, #851476, #FF00DD) 1;
+    margin: 5px;
+    padding:5px;
+}
